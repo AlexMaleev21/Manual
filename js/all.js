@@ -1185,7 +1185,7 @@ DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
     DREX_NODE_NAMES: ["ЛМВ Довідка","1. Стартові екрани","2. Прогноз погоди","3. Ваша статистика","4. Графіки","5. Запис до лікаря","6. Деталі візиту (Виписка)","7. Інформація","8. Глосарій","1.1. Вхід та реєстрація","1.2. Головний екран","4.1. Графік тиску","4.2. Графік магнітних бурь","4.3. Комбінований графік"],
-    DREX_NODE_LINKS: ["lmv_dovidka.htm","startovi_ekrani.htm","prognoz_pogodi.htm","vasha_statistika.htm","grafiki.htm","zapis_do_likarya.htm","detali_vizitu__vipiska_.htm","informatsiya.htm","glosarij.htm","vkhid_ta_re_stratsiya.htm","golovnij_ekran.htm","grafik_tisku.htm","grafik_magnitnikh_bur.htm","kombinovanij_grafik.htm"],
+    DREX_NODE_LINKS: ["lmv_dovidka.html","startovi_ekrani.html","prognoz_pogodi.html","vasha_statistika.html","grafiki.html","zapis_do_likarya.html","detali_vizitu__vipiska_.html","informatsiya.html","glosarij.html","vkhid_ta_re_stratsiya.html","golovnij_ekran.html","grafik_tisku.html","grafik_magnitnikh_bur.html","kombinovanij_grafik.html"],
     DREX_NODE_CHILD_START: [1,9,11,11,11,14,14,14,14,14,14,14,14,14],
     DREX_NODE_CHILD_END: [9,11,11,11,14,14,14,14,14,14,14,14,14,14],
     DREX_MENU_TYPE: 2,
